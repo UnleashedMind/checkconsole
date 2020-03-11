@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "checkconsole-20200311141144-authRole",
+            "UnauthRoleArn": "arn:aws:iam::466632810889:role/checkconsole-20200311141144-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::466632810889:role/checkconsole-20200311141144-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "checkconsole-20200311141144-deployment",
+            "UnauthRoleName": "checkconsole-20200311141144-unauthRole",
+            "StackName": "checkconsole-20200311141144",
+            "StackId": "arn:aws:cloudformation:us-west-2:466632810889:stack/checkconsole-20200311141144/e999b0e0-63dc-11ea-873e-0236211bab6e"
+        }
+    }
+}
